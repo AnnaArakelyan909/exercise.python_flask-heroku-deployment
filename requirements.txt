@@ -1,0 +1,11 @@
+cheroot==8.5.0
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+jaraco.functools==3.0.1
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+more-itertools==8.6.0
+six==1.15.0
+web.py==0.62
+Werkzeug==1.0.1
